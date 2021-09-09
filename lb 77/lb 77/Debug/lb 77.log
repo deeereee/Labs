@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\79040\source\repos\lb 77\lb 77\Source.cpp(14,1): warning C4005: max: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(193): message : см. предыдущее определение "max"
+C:\Users\79040\source\repos\lb 77\lb 77\Source.cpp(255,50): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Users\79040\source\repos\lb 77\lb 77\Source.cpp(259,47): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Users\79040\source\repos\lb 77\lb 77\Source.cpp(263,53): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Users\79040\source\repos\lb 77\lb 77\Source.cpp(267,45): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Users\79040\source\repos\lb 77\lb 77\Source.cpp(271,49): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+  lb 77.vcxproj -> C:\Users\79040\source\repos\lb 77\Debug\lb 77.exe
